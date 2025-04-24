@@ -126,16 +126,16 @@ void resetForm() {
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2ec6e964-d5cc-4d81-af88-89c172d57433" width="200" />
-  <img src="https://github.com/user-attachments/assets/3cd574de-0b43-47b3-bdff-5e77d269f9df" width="200" />
-  <img src="https://github.com/user-attachments/assets/d51e2de6-01b8-4acc-8546-8bc5a15a1919" width="200" />
-  <img src="https://github.com/user-attachments/assets/e3d8469c-265e-4034-9475-df75bf248d0a" width="200" />
+  <img src="https://github.com/user-attachments/assets/2ec6e964-d5cc-4d81-af88-89c172d57433" width="300" />
+  <img src="https://github.com/user-attachments/assets/3cd574de-0b43-47b3-bdff-5e77d269f9df" width="300" />
+  <img src="https://github.com/user-attachments/assets/d51e2de6-01b8-4acc-8546-8bc5a15a1919" width="300" />
+  <img src="https://github.com/user-attachments/assets/e3d8469c-265e-4034-9475-df75bf248d0a" width="300" />
 
 </p>
 
 ### 📝 Order Preview Screens (IOS)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bfff5e3b-7e4a-459e-962b-d48b366991d8" width="200" />
-  <img src="https://github.com/user-attachments/assets/3ef6f473-175c-4eb6-85c3-d0d3a53c5a80" width="200" />
+  <img src="https://github.com/user-attachments/assets/bfff5e3b-7e4a-459e-962b-d48b366991d8" width="300" />
+  <img src="https://github.com/user-attachments/assets/3ef6f473-175c-4eb6-85c3-d0d3a53c5a80" width="300" />
 </p>
