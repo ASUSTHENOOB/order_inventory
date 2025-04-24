@@ -119,23 +119,23 @@ void resetForm() {
 <h3 align="center">📱 ENTRY UI </h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/98396d7b-5712-4339-b72d-aede94bb7da7" width="250" />
-  <img src="https://github.com/user-attachments/assets/ee63c993-bac9-4877-8313-d05c70c1058e" width="250" />
-  <img src="https://github.com/user-attachments/assets/aea1da4d-35f7-4fa5-8b10-479c041a6c57" width="250" />
+  <img src="https://github.com/user-attachments/assets/98396d7b-5712-4339-b72d-aede94bb7da7" width="230" />
+  <img src="https://github.com/user-attachments/assets/ee63c993-bac9-4877-8313-d05c70c1058e" width="230" />
+  <img src="https://github.com/user-attachments/assets/aea1da4d-35f7-4fa5-8b10-479c041a6c57" width="230" />
   <img src="https://github.com/user-attachments/assets/df5a8900-badf-4de5-9621-23da3ea8b794" width="230" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2ec6e964-d5cc-4d81-af88-89c172d57433" width="250" />
-  <img src="https://github.com/user-attachments/assets/3cd574de-0b43-47b3-bdff-5e77d269f9df" width="250" />
-  <img src="https://github.com/user-attachments/assets/d51e2de6-01b8-4acc-8546-8bc5a15a1919" width="250" />
-  <img src="https://github.com/user-attachments/assets/e3d8469c-265e-4034-9475-df75bf248d0a" width="250" />
+  <img src="https://github.com/user-attachments/assets/2ec6e964-d5cc-4d81-af88-89c172d57433" width="230" />
+  <img src="https://github.com/user-attachments/assets/3cd574de-0b43-47b3-bdff-5e77d269f9df" width="230" />
+  <img src="https://github.com/user-attachments/assets/d51e2de6-01b8-4acc-8546-8bc5a15a1919" width="230" />
+  <img src="https://github.com/user-attachments/assets/e3d8469c-265e-4034-9475-df75bf248d0a" width="230" />
 
 </p>
 
 ### 📝 Order Preview Screens (IOS)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bfff5e3b-7e4a-459e-962b-d48b366991d8" width="250" />
-  <img src="https://github.com/user-attachments/assets/3ef6f473-175c-4eb6-85c3-d0d3a53c5a80" width="250" />
+  <img src="https://github.com/user-attachments/assets/bfff5e3b-7e4a-459e-962b-d48b366991d8" width="230" />
+  <img src="https://github.com/user-attachments/assets/3ef6f473-175c-4eb6-85c3-d0d3a53c5a80" width="230" />
 </p>
