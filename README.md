@@ -119,10 +119,10 @@ void resetForm() {
 <h3 align="center">📱 ENTRY UI </h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/98396d7b-5712-4339-b72d-aede94bb7da7" width="200" />
-  <img src="https://github.com/user-attachments/assets/ee63c993-bac9-4877-8313-d05c70c1058e" width="200" />
-  <img src="https://github.com/user-attachments/assets/aea1da4d-35f7-4fa5-8b10-479c041a6c57" width="200" />
-  <img src="https://github.com/user-attachments/assets/df5a8900-badf-4de5-9621-23da3ea8b794" width="200" />
+  <img src="https://github.com/user-attachments/assets/98396d7b-5712-4339-b72d-aede94bb7da7" width="100" />
+  <img src="https://github.com/user-attachments/assets/ee63c993-bac9-4877-8313-d05c70c1058e" width="100" />
+  <img src="https://github.com/user-attachments/assets/aea1da4d-35f7-4fa5-8b10-479c041a6c57" width="100" />
+  <img src="https://github.com/user-attachments/assets/df5a8900-badf-4de5-9621-23da3ea8b794" width="100" />
 </p>
 
 <p align="center">
