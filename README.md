@@ -162,9 +162,6 @@ void resetForm() {
   <img src="https://github.com/user-attachments/assets/d987cdc8-8b70-428c-8c7a-a1fb58025f8a" width="230" />
   <img src="https://github.com/user-attachments/assets/6904a773-310f-4b69-815c-7b328291f242" width="230" />
   <img src="https://github.com/user-attachments/assets/e5b43700-6382-40b2-aaa4-afd86953e2aa" width="230" />
-  <img src="https://github.com/user-attachments/assets/4316bff6-e8a8-4efb-8588-245830c0d80e" width="230" />
-  <img src="https://github.com/user-attachments/assets/85cfae66-2690-44ca-b367-0efa84ffb7d4" width="230" />
-  <img src="https://github.com/user-attachments/assets/c27a0b21-4223-402f-baaf-82bfaac2ddb8" width="230" />
   <img src="https://github.com/user-attachments/assets/b3284c16-28fc-4285-ade1-88bcf1afb82f" width="230" />
 </div>
 
