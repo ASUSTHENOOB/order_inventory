@@ -142,9 +142,14 @@ void resetForm() {
   <img src="https://github.com/user-attachments/assets/3ef6f473-175c-4eb6-85c3-d0d3a53c5a80" width="230" />
 </p>
 
+
+
 ### 📝 Order Entry Screens (ANDROID)
 <!-- Scrollable horizontal gallery for Android screenshots -->
+
 <h3 align="center">📱 ENTRY UI </h3>
+
+
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
   <img src="https://github.com/user-attachments/assets/4efa1859-817b-4e37-ac22-79ee6da49cf4" width="230" />
   <img src="https://github.com/user-attachments/assets/e8e5b4d5-fe53-4c2e-8a40-bcb9086accf8" width="230" />
@@ -164,3 +169,8 @@ void resetForm() {
 </div>
 
 
+<h3 align="center">📱 PREVIEW UI </h3>
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
+<img src="https://github.com/user-attachments/assets/85cfae66-2690-44ca-b367-0efa84ffb7d4" width="230" />
+  <img src="https://github.com/user-attachments/assets/c27a0b21-4223-402f-baaf-82bfaac2ddb8" width="230" />
+</div>
