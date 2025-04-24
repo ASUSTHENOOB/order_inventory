@@ -153,7 +153,7 @@ void resetForm() {
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
   <img src="https://github.com/user-attachments/assets/4efa1859-817b-4e37-ac22-79ee6da49cf4" width="230" />
   <img src="https://github.com/user-attachments/assets/e8e5b4d5-fe53-4c2e-8a40-bcb9086accf8" width="230" />
-  <img src="https://github.com/user-attachments/assets/86069147-a04f-4645-a6a9-29a986f2a173" width="230" />
+  <img src="https://github.com/user-attachments/assets/85fc5170-cfcc-41bc-a09a-4067e9d5052a" width="230" />
   <img src="https://github.com/user-attachments/assets/68823b39-e244-4cc3-bf76-68e80147deb1" width="230" />
   <img src="https://github.com/user-attachments/assets/0458d65e-cc2b-408d-94db-e058b46b8c11" width="230" />
   <img src="https://github.com/user-attachments/assets/fde98296-6aa8-423e-b867-4e12153116ba" width="230" />
