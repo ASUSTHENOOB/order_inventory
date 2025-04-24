@@ -70,6 +70,7 @@ cd order_management_app
 
 ### 🧾 Bottom Sheet for Notes and Image (Snippet)
 
+```text
 void _showNoteImageSheet(int index) {
   Get.bottomSheet(
     Container(
@@ -83,9 +84,11 @@ void _showNoteImageSheet(int index) {
     isScrollControlled: true,
   );
 }
+```
 
 ### 🔍 Product Suggestions from API (Snippet)
 
+```text
 TypeAheadField<String>(
   suggestionsCallback: fetchSuggestions,
   itemBuilder: (context, suggestion) =>
@@ -94,9 +97,11 @@ TypeAheadField<String>(
     controller.updateProductName(index, suggestion);
   },
 );
+```
 
 ### ✅ Valid Item Check and Form Reset (Snippet)
 
+```text
 bool get hasValidItem =>
   items.any((item) => item.productName?.isNotEmpty == true && item.quantity?.isNotEmpty == true);
 
@@ -104,6 +109,8 @@ void resetForm() {
   items.clear();
   addNewItem(); // Ensures one editable row
 }
+
+```
 
 ## 📸 Screenshots
 
