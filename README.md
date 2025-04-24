@@ -135,7 +135,7 @@ void resetForm() {
 
 ### 📝 Order Preview Screens (IOS)
 
-<h3 align="center">📱 ENTRY UI </h3>
+<h3 align="center">📱 PREVIEW UI </h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bfff5e3b-7e4a-459e-962b-d48b366991d8" width="230" />
