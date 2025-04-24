@@ -141,3 +141,26 @@ void resetForm() {
   <img src="https://github.com/user-attachments/assets/bfff5e3b-7e4a-459e-962b-d48b366991d8" width="230" />
   <img src="https://github.com/user-attachments/assets/3ef6f473-175c-4eb6-85c3-d0d3a53c5a80" width="230" />
 </p>
+
+### 📝 Order Entry Screens (ANDROID)
+<!-- Scrollable horizontal gallery for Android screenshots -->
+<h3 align="center">📱 ENTRY UI </h3>
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
+  <img src="https://github.com/user-attachments/assets/4efa1859-817b-4e37-ac22-79ee6da49cf4" width="230" />
+  <img src="https://github.com/user-attachments/assets/e8e5b4d5-fe53-4c2e-8a40-bcb9086accf8" width="230" />
+  <img src="https://github.com/user-attachments/assets/86069147-a04f-4645-a6a9-29a986f2a173" width="230" />
+  <img src="https://github.com/user-attachments/assets/68823b39-e244-4cc3-bf76-68e80147deb1" width="230" />
+  <img src="https://github.com/user-attachments/assets/0458d65e-cc2b-408d-94db-e058b46b8c11" width="230" />
+  <img src="https://github.com/user-attachments/assets/fde98296-6aa8-423e-b867-4e12153116ba" width="230" />
+  <img src="https://github.com/user-attachments/assets/47496193-5fe5-4b34-b221-db848c3f35c3" width="230" />
+  <img src="https://github.com/user-attachments/assets/6a1f2e46-1a27-4bb3-94e3-15079dbfc850" width="230" />
+  <img src="https://github.com/user-attachments/assets/d987cdc8-8b70-428c-8c7a-a1fb58025f8a" width="230" />
+  <img src="https://github.com/user-attachments/assets/6904a773-310f-4b69-815c-7b328291f242" width="230" />
+  <img src="https://github.com/user-attachments/assets/e5b43700-6382-40b2-aaa4-afd86953e2aa" width="230" />
+  <img src="https://github.com/user-attachments/assets/4316bff6-e8a8-4efb-8588-245830c0d80e" width="230" />
+  <img src="https://github.com/user-attachments/assets/85cfae66-2690-44ca-b367-0efa84ffb7d4" width="230" />
+  <img src="https://github.com/user-attachments/assets/c27a0b21-4223-402f-baaf-82bfaac2ddb8" width="230" />
+  <img src="https://github.com/user-attachments/assets/b3284c16-28fc-4285-ade1-88bcf1afb82f" width="230" />
+</div>
+
+
