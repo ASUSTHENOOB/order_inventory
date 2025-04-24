@@ -18,17 +18,19 @@ A sleek and intuitive **Order Entry & Preview Application** built with **Flutter
 
 ## 📂 Project Structure
 
+```text
 lib/
 │
 ├── app/
 │   ├── controllers/
 │   │   └── order_controller.dart
 │   ├── models/
-│   │   └── order_item.dart
-|   |   └── product_item.dart
+│   │   ├── order_item.dart
+│   │   └── product_item.dart
 │   └── pages/
-│       └── order_entry_page.dart
-|       └── order_preview.page.dart
+│       ├── order_entry_page.dart
+│       └── order_preview_page.dart
+```
 
 
 
