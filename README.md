@@ -47,7 +47,7 @@ lib/
 
 ## 🚀 How to Run
 
-1. git clone https://github.com/ASUSTHENOOB/order_management_app.git
+1. git clone https://github.com/ASUSTHENOOB/order_inventory.git
 cd order_management_app
 2. flutter pub get
 3. flutter run
@@ -73,8 +73,8 @@ void _showNoteImageSheet(int index) {
     Container(
       child: Column(
         children: [
-          TextField(),            // For note
-          ElevatedButton(),       // For image picker
+          TextField(),            
+          ElevatedButton(),       
         ],
       ),
     ),
